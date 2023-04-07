@@ -1,0 +1,11 @@
+.navbar-nav{
+    padding: 1rem;
+    gap: 5rem;
+}
+.card-img-top{
+    width: 90%;
+    margin: 0;
+}
+.card{
+    margin: 10px;
+}
